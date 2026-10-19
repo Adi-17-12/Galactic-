@@ -1,0 +1,12 @@
+{
+  "name": "GALACTIC INSTITUTE Website",
+  "description": "A professional, responsive website for GALACTIC INSTITUTE PVT LTD, a coaching centre in Mahavir Enclave, New Delhi, designed to attract students and generate enquiries.",
+  "entry": "index.html",
+  "multiPage": false,
+  "files": [
+    "index.html",
+    "metadata.json"
+  ],
+  "tailwind": { "source": "play-cdn" },
+  "generatedAt": "2024-07-30T12:00:00Z"
+}
